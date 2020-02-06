@@ -2,6 +2,8 @@ site_name: My Docs
 docs_dir: site
 site_dir: docs
 theme: readthedocs
+repo_name: GitHub
+repo_url: https://github.com/droppedoncaprica/kyria-qmk-docs
 nav:
     - Home: index.md
     - About: about.md
