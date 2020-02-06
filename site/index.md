@@ -43,4 +43,6 @@ When flashing the right side of your keyboard:
 make kyria:<YOUR_BINDINGS>:avrdude-split-right
 ```
 
+# Helpful Links
 
+Default Kyria Layout: https://config.qmk.fm/#/kyria/rev1/LAYOUT
