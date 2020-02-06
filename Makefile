@@ -16,5 +16,5 @@ preview: build-preview-img
 	docker run -it -v "$(shell pwd):/usr/src/app" -p 8000:8000 kyria-qmk-docs-preview
 
 build: build-compile-img
-	rm -rf site
+	rm -rf docs
 	docker run -v "$(shell pwd):/usr/src/app" kyria-qmk-docs-compile

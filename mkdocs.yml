@@ -1,4 +1,6 @@
 site_name: My Docs
+docs_dir: site
+site_dir: docs
 theme: readthedocs
 nav:
     - Home: index.md
